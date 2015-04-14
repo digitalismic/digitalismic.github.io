@@ -77,7 +77,7 @@ exclude:
   rooturl: '_posts'
   siteurl: 'http://digitalismic.github.io/'
   relativeLinks: 'http://digitalismic.github.io/starter/links.jsonp'
-  media: 'media'
+  media: 'images'
   ignore:
     - index.md
     - _config.yml
