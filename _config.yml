@@ -75,5 +75,5 @@ exclude:
     
  prose:
   siteurl: 'http://digitalismic.github.io/'
-  media: 'media'
+  media: 'images'
  
